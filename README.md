@@ -7,4 +7,4 @@ Drag & drop the file into lively window.
 
 ## License
 
-The code is available under the [MIT license](LICENSE)
+The code is available under the [MIT license](LICENSE) 
